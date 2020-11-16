@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601735138 source:c:\users\hajer\desktop\c2\ex 2 td 2\main.cpp
+	<iostream>
+	"heade.h"
+	<string>
+
+1601735126 c:\users\hajer\desktop\c2\ex 2 td 2\heade.h
+	<string>
+
+1601735400 source:c:\users\hajer\desktop\c2\ex 2 td 2\fonct.cpp
+	<iostream>
+	"heade.h"
+	<string>
+
